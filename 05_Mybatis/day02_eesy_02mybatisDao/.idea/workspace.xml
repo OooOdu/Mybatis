@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="beebaef1-f796-44db-b59c-0c2d14c447fe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZNCO8j0v9hKCDrVVSvSK13mkxi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="JUnit.MybatisTest.testUpdateUser">
+    <configuration name="MybatisTest.testDeleteUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day02_eesy_02mybatisDao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.test.MybatisTest" />
+      <option name="METHOD_NAME" value="testDeleteUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest.testFindById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day02_eesy_02mybatisDao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.test.MybatisTest" />
+      <option name="METHOD_NAME" value="testFindById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest.testFindByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day02_eesy_02mybatisDao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.test.MybatisTest" />
+      <option name="METHOD_NAME" value="testFindByName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest.testTotal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day02_eesy_02mybatisDao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.test.MybatisTest" />
+      <option name="METHOD_NAME" value="testTotal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest.testUpdateUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day02_eesy_02mybatisDao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.test.MybatisTest" />
+      <option name="METHOD_NAME" value="testUpdateUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MybatisTest.testUpdateUser" />
+        <item itemvalue="JUnit.MybatisTest.testTotal" />
+        <item itemvalue="JUnit.MybatisTest.testFindByName" />
+        <item itemvalue="JUnit.MybatisTest.testFindById" />
+        <item itemvalue="JUnit.MybatisTest.testDeleteUser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="beebaef1-f796-44db-b59c-0c2d14c447fe" name="Default Changelist" comment="" />
+      <created>1584670129110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584670129110</updated>
+      <workItem from="1584670130396" duration="3743000" />
+      <workItem from="1584690668578" duration="1299000" />
+      <workItem from="1585660759436" duration="3000" />
+      <workItem from="1586402998359" duration="43000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="204" key="#Project_Structure" timestamp="1584670181432">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state x="496" y="204" key="#Project_Structure/0.23.1792.1032@0.23.1792.1032" timestamp="1584670181432" />
+    <state x="709" y="262" key="#com.intellij.ide.util.MemberChooser" timestamp="1584670952887">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state x="709" y="262" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1032@0.23.1792.1032" timestamp="1584670952887" />
+    <state x="634" y="293" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584670312347">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state x="634" y="293" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1792.1032@0.23.1792.1032" timestamp="1584670312347" />
+    <state width="1878" height="306" key="GridCell.Tab.0.bottom" timestamp="1586403041204">
+      <screen x="0" y="23" width="1920" height="1108" />
+    </state>
+    <state width="1750" height="281" key="GridCell.Tab.0.bottom/0.23.1792.1032@0.23.1792.1032" timestamp="1584674069061" />
+    <state width="1878" height="306" key="GridCell.Tab.0.bottom/0.23.1920.1108@0.23.1920.1108" timestamp="1586403041204" />
+    <state width="1878" height="306" key="GridCell.Tab.0.center" timestamp="1586403041204">
+      <screen x="0" y="23" width="1920" height="1108" />
+    </state>
+    <state width="1750" height="281" key="GridCell.Tab.0.center/0.23.1792.1032@0.23.1792.1032" timestamp="1584674069060" />
+    <state width="1878" height="306" key="GridCell.Tab.0.center/0.23.1920.1108@0.23.1920.1108" timestamp="1586403041204" />
+    <state width="1878" height="306" key="GridCell.Tab.0.left" timestamp="1586403041204">
+      <screen x="0" y="23" width="1920" height="1108" />
+    </state>
+    <state width="1750" height="281" key="GridCell.Tab.0.left/0.23.1792.1032@0.23.1792.1032" timestamp="1584674069060" />
+    <state width="1878" height="306" key="GridCell.Tab.0.left/0.23.1920.1108@0.23.1920.1108" timestamp="1586403041204" />
+    <state width="1878" height="306" key="GridCell.Tab.0.right" timestamp="1586403041204">
+      <screen x="0" y="23" width="1920" height="1108" />
+    </state>
+    <state width="1750" height="281" key="GridCell.Tab.0.right/0.23.1792.1032@0.23.1792.1032" timestamp="1584674069060" />
+    <state width="1878" height="306" key="GridCell.Tab.0.right/0.23.1920.1108@0.23.1920.1108" timestamp="1586403041204" />
+    <state x="384" y="120" key="SettingsEditor" timestamp="1584671947781">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state x="384" y="120" key="SettingsEditor/0.23.1792.1032@0.23.1792.1032" timestamp="1584671947781" />
+  </component>
+</project>

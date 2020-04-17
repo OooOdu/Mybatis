@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e0557af-9e1b-47e0-affb-c10e937df1f9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZyyRSq9qEkfcjPvDvZY75uqc7E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/com/itheima/dao" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MybatisAnnoTest.testUpdateUser">
+    <configuration name="MybatisAnnoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.test.MybatisAnnoTest" />
+      <module name="day04_eesy_03annotation_mybatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisAnnoTest.testDeleteUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day04_eesy_03annotation_mybatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.test.MybatisAnnoTest" />
+      <option name="METHOD_NAME" value="testDeleteUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisAnnoTest.testSaveUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day04_eesy_03annotation_mybatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.test.MybatisAnnoTest" />
+      <option name="METHOD_NAME" value="testSaveUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisAnnoTest.testUpdateUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day04_eesy_03annotation_mybatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.test.MybatisAnnoTest" />
+      <option name="METHOD_NAME" value="testUpdateUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MybatisAnnoTest.testUpdateUser" />
+        <item itemvalue="JUnit.MybatisAnnoTest.testSaveUser" />
+        <item itemvalue="JUnit.MybatisAnnoTest.testDeleteUser" />
+        <item itemvalue="Application.MybatisAnnoTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e0557af-9e1b-47e0-affb-c10e937df1f9" name="Default Changelist" comment="" />
+      <created>1585825619751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585825619751</updated>
+      <workItem from="1585825622192" duration="4838000" />
+      <workItem from="1585889585451" duration="1249000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="204" key="#Project_Structure" timestamp="1585828905089">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state x="496" y="204" key="#Project_Structure/0.23.1792.1032@0.23.1792.1032" timestamp="1585828905089" />
+    <state x="629" y="349" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585827790936">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state x="629" y="349" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1032@0.23.1792.1032" timestamp="1585827790936" />
+    <state x="709" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1585827656518">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state x="709" y="230" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1032@0.23.1792.1032" timestamp="1585827656518" />
+    <state width="1750" height="281" key="GridCell.Tab.0.bottom" timestamp="1585832025523">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state width="1750" height="281" key="GridCell.Tab.0.bottom/0.23.1792.1032@0.23.1792.1032" timestamp="1585832025523" />
+    <state width="1750" height="281" key="GridCell.Tab.0.center" timestamp="1585832025523">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state width="1750" height="281" key="GridCell.Tab.0.center/0.23.1792.1032@0.23.1792.1032" timestamp="1585832025523" />
+    <state width="1750" height="281" key="GridCell.Tab.0.left" timestamp="1585832025523">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state width="1750" height="281" key="GridCell.Tab.0.left/0.23.1792.1032@0.23.1792.1032" timestamp="1585832025523" />
+    <state width="1750" height="281" key="GridCell.Tab.0.right" timestamp="1585832025523">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state width="1750" height="281" key="GridCell.Tab.0.right/0.23.1792.1032@0.23.1792.1032" timestamp="1585832025523" />
+  </component>
+</project>

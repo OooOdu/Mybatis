@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3923ad7-95ab-4ed9-ae45-27b39d59662c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZQ4C5s9UthfJenaQhHzZkbZTYO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MybatisTest.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day03_eesy_01datasourceAndTx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.test.MybatisTest" />
+      <option name="METHOD_NAME" value="testFindAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MybatisTest.testFindAll" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3923ad7-95ab-4ed9-ae45-27b39d59662c" name="Default Changelist" comment="" />
+      <created>1584757852305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584757852305</updated>
+      <workItem from="1584757854489" duration="750000" />
+      <workItem from="1584758635661" duration="2000" />
+      <workItem from="1584758781877" duration="2432000" />
+      <workItem from="1585660955366" duration="245000" />
+      <workItem from="1585662279355" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1750" height="289" key="GridCell.Tab.0.bottom" timestamp="1584761365814">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state width="1750" height="289" key="GridCell.Tab.0.bottom/0.23.1792.1032@0.23.1792.1032" timestamp="1584761365814" />
+    <state width="1750" height="289" key="GridCell.Tab.0.center" timestamp="1584761365813">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state width="1750" height="289" key="GridCell.Tab.0.center/0.23.1792.1032@0.23.1792.1032" timestamp="1584761365813" />
+    <state width="1750" height="289" key="GridCell.Tab.0.left" timestamp="1584761365813">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state width="1750" height="289" key="GridCell.Tab.0.left/0.23.1792.1032@0.23.1792.1032" timestamp="1584761365813" />
+    <state width="1750" height="289" key="GridCell.Tab.0.right" timestamp="1584761365814">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state width="1750" height="289" key="GridCell.Tab.0.right/0.23.1792.1032@0.23.1792.1032" timestamp="1584761365814" />
+    <state width="1750" height="347" key="GridCell.Tab.1.bottom" timestamp="1584758606445">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state width="1750" height="347" key="GridCell.Tab.1.bottom/0.23.1792.1032@0.23.1792.1032" timestamp="1584758606445" />
+    <state width="1750" height="347" key="GridCell.Tab.1.center" timestamp="1584758606444">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state width="1750" height="347" key="GridCell.Tab.1.center/0.23.1792.1032@0.23.1792.1032" timestamp="1584758606444" />
+    <state width="1750" height="347" key="GridCell.Tab.1.left" timestamp="1584758606444">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state width="1750" height="347" key="GridCell.Tab.1.left/0.23.1792.1032@0.23.1792.1032" timestamp="1584758606444" />
+    <state width="1750" height="347" key="GridCell.Tab.1.right" timestamp="1584758606445">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state width="1750" height="347" key="GridCell.Tab.1.right/0.23.1792.1032@0.23.1792.1032" timestamp="1584758606445" />
+    <state x="384" y="120" key="SettingsEditor" timestamp="1584759808865">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state x="384" y="120" key="SettingsEditor/0.23.1792.1032@0.23.1792.1032" timestamp="1584759808865" />
+    <state x="561" y="252" width="670" height="676" key="search.everywhere.popup" timestamp="1584759471180">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state x="561" y="252" width="670" height="676" key="search.everywhere.popup/0.23.1792.1032@0.23.1792.1032" timestamp="1584759471180" />
+  </component>
+</project>
